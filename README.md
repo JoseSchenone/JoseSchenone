@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseSchenone
-- 👀 I’m interested in Kayak Fishing, PHP, BASH, Linux and 3D Printing
+- 👀 I’m interested in Kayak Fishing, PHP, BASH, Linux, 3D Printing and MTB
 - 🌱 I’m currently learning Python
 - 📫 jose.schenone@gmail.com 
 
